@@ -104,7 +104,7 @@ def scrape_fashion(baseUrl: string, paginationUrl: string, startPage=2, delay=1)
     logging.info("Scraping process completed")
     return data
 
-def main():
+def scrape():
     '''Fungsi utama untuk keseluruhan proses scraping'''
     logging.info("Starting main function")
     BASE_URL = "https://fashion-studio.dicoding.dev/"
@@ -116,5 +116,3 @@ def main():
 
     return df
 
-if __name__ == '__main__':
-    main()
