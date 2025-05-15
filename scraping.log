@@ -526,3 +526,42 @@
 2025-05-15 13:06:20,823 - INFO - Scraping page 50
 2025-05-15 13:06:20,919 - INFO - No more pages to scrape
 2025-05-15 13:06:20,919 - INFO - Scraping process completed
+2025-05-15 13:22:00,177 - INFO - Starting main function
+2025-05-15 13:22:00,184 - INFO - Starting scraping process
+2025-05-15 13:22:00,184 - INFO - Scraping first page
+2025-05-15 13:22:00,185 - INFO - Scraping page 2
+2025-05-15 13:22:00,186 - INFO - No more pages to scrape
+2025-05-15 13:22:00,187 - INFO - Scraping process completed
+2025-05-15 13:23:10,455 - INFO - Starting main function
+2025-05-15 13:23:10,462 - INFO - Starting scraping process
+2025-05-15 13:23:10,463 - INFO - Scraping first page
+2025-05-15 13:23:10,463 - INFO - Scraping page 2
+2025-05-15 13:23:10,464 - INFO - No more pages to scrape
+2025-05-15 13:23:10,464 - INFO - Scraping process completed
+2025-05-15 13:24:20,777 - INFO - Starting main function
+2025-05-15 13:24:20,786 - INFO - Starting scraping process
+2025-05-15 13:24:20,786 - INFO - Scraping first page
+2025-05-15 13:24:20,787 - INFO - Scraping page 2
+2025-05-15 13:24:20,789 - INFO - No more pages to scrape
+2025-05-15 13:24:20,789 - INFO - Scraping process completed
+2025-05-15 13:50:12,645 - ERROR - Error fetching content from URL http://example.com: Error
+2025-05-15 13:50:12,647 - INFO - Starting main function
+2025-05-15 13:50:12,653 - INFO - Starting scraping process
+2025-05-15 13:50:12,654 - INFO - Scraping first page
+2025-05-15 13:50:12,655 - INFO - Scraping page 2
+2025-05-15 13:50:12,656 - INFO - No more pages to scrape
+2025-05-15 13:50:12,656 - INFO - Scraping process completed
+2025-05-15 13:54:24,328 - ERROR - Error fetching content from URL http://example.com: Error
+2025-05-15 13:54:24,334 - INFO - Starting main function
+2025-05-15 13:54:24,347 - INFO - Starting scraping process
+2025-05-15 13:54:24,348 - INFO - Scraping first page
+2025-05-15 13:54:24,349 - INFO - Scraping page 2
+2025-05-15 13:54:24,351 - INFO - No more pages to scrape
+2025-05-15 13:54:24,351 - INFO - Scraping process completed
+2025-05-15 13:56:28,272 - ERROR - Error fetching content from URL http://example.com: Error
+2025-05-15 13:56:28,276 - INFO - Starting main function
+2025-05-15 13:56:28,286 - INFO - Starting scraping process
+2025-05-15 13:56:28,286 - INFO - Scraping first page
+2025-05-15 13:56:28,289 - INFO - Scraping page 2
+2025-05-15 13:56:28,292 - INFO - No more pages to scrape
+2025-05-15 13:56:28,292 - INFO - Scraping process completed

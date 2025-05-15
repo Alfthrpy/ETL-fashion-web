@@ -114,5 +114,7 @@ def main():
     df = pd.DataFrame(all_fashion_data)
     df.to_csv('testing.csv', index=False)
 
+    return df
+
 if __name__ == '__main__':
     main()
