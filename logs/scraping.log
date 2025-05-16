@@ -1,0 +1,174 @@
+2025-05-16 08:40:31,706 - ERROR - Error fetching content from URL http://example.com: Error
+2025-05-16 08:40:31,706 - INFO - Starting main function
+2025-05-16 08:40:31,706 - INFO - Starting scraping process
+2025-05-16 08:40:31,706 - INFO - Scraping first page
+2025-05-16 08:40:31,706 - INFO - Scraping page 2
+2025-05-16 08:40:31,706 - INFO - No more pages to scrape
+2025-05-16 08:40:31,714 - INFO - Scraping process completed
+2025-05-16 08:40:31,732 - INFO - save to csv success
+2025-05-16 08:41:27,416 - ERROR - Error fetching content from URL http://example.com: Error
+2025-05-16 08:41:27,419 - INFO - Starting main function
+2025-05-16 08:41:27,420 - INFO - Starting scraping process
+2025-05-16 08:41:27,421 - INFO - Scraping first page
+2025-05-16 08:41:27,421 - INFO - Scraping page 2
+2025-05-16 08:41:27,421 - INFO - No more pages to scrape
+2025-05-16 08:41:27,422 - INFO - Scraping process completed
+2025-05-16 08:41:27,426 - INFO - save to csv success
+2025-05-16 08:41:27,431 - INFO - save to postgres success
+2025-05-16 08:41:27,434 - INFO - save to spreadsheets success
+2025-05-16 08:43:40,325 - ERROR - Error fetching content from URL http://example.com: Error
+2025-05-16 08:43:40,333 - INFO - Starting main function
+2025-05-16 08:43:40,334 - INFO - Starting scraping process
+2025-05-16 08:43:40,334 - INFO - Scraping first page
+2025-05-16 08:43:40,335 - INFO - Scraping page 2
+2025-05-16 08:43:40,335 - INFO - No more pages to scrape
+2025-05-16 08:43:40,335 - INFO - Scraping process completed
+2025-05-16 08:43:40,339 - INFO - save to csv success
+2025-05-16 08:43:40,343 - INFO - save to postgres success
+2025-05-16 08:43:40,346 - INFO - save to spreadsheets success
+2025-05-16 08:44:16,223 - ERROR - Error fetching content from URL http://example.com: Error
+2025-05-16 08:44:16,227 - INFO - Starting main function
+2025-05-16 08:44:16,227 - INFO - Starting scraping process
+2025-05-16 08:44:16,227 - INFO - Scraping first page
+2025-05-16 08:44:16,227 - INFO - Scraping page 2
+2025-05-16 08:44:16,232 - INFO - No more pages to scrape
+2025-05-16 08:44:16,232 - INFO - Scraping process completed
+2025-05-16 08:44:16,237 - INFO - save to csv success
+2025-05-16 08:44:16,244 - INFO - save to postgres success
+2025-05-16 08:44:16,249 - INFO - save to spreadsheets success
+2025-05-16 08:45:07,277 - ERROR - Error fetching content from URL http://example.com: Error
+2025-05-16 08:45:07,278 - INFO - Starting main function
+2025-05-16 08:45:07,280 - INFO - Starting scraping process
+2025-05-16 08:45:07,280 - INFO - Scraping first page
+2025-05-16 08:45:07,280 - INFO - Scraping page 2
+2025-05-16 08:45:07,281 - INFO - No more pages to scrape
+2025-05-16 08:45:07,281 - INFO - Scraping process completed
+2025-05-16 08:45:07,285 - INFO - save to csv success
+2025-05-16 08:45:07,290 - INFO - save to postgres success
+2025-05-16 08:45:07,295 - INFO - save to spreadsheets success
+2025-05-16 08:45:30,482 - ERROR - Error fetching content from URL http://example.com: Error
+2025-05-16 08:45:30,482 - INFO - Starting main function
+2025-05-16 08:45:30,482 - INFO - Starting scraping process
+2025-05-16 08:45:30,492 - INFO - Scraping first page
+2025-05-16 08:45:30,492 - INFO - Scraping page 2
+2025-05-16 08:45:30,492 - INFO - No more pages to scrape
+2025-05-16 08:45:30,492 - INFO - Scraping process completed
+2025-05-16 08:45:30,504 - INFO - save to csv success
+2025-05-16 08:45:30,508 - INFO - save to postgres success
+2025-05-16 08:45:30,513 - INFO - save to spreadsheets success
+2025-05-16 08:47:58,635 - INFO - Starting main function
+2025-05-16 08:47:58,635 - INFO - Starting scraping process
+2025-05-16 08:47:58,635 - INFO - Scraping first page
+2025-05-16 08:47:58,884 - INFO - Scraping page 2
+2025-05-16 08:47:59,011 - INFO - Scraping page 3
+2025-05-16 08:47:59,154 - INFO - Scraping page 4
+2025-05-16 08:47:59,277 - INFO - Scraping page 5
+2025-05-16 08:47:59,702 - INFO - Scraping page 6
+2025-05-16 08:47:59,824 - INFO - Scraping page 7
+2025-05-16 08:48:00,375 - INFO - Scraping page 8
+2025-05-16 08:48:00,474 - INFO - Scraping page 9
+2025-05-16 08:48:00,568 - INFO - Scraping page 10
+2025-05-16 08:48:00,668 - INFO - Scraping page 11
+2025-05-16 08:48:00,761 - INFO - Scraping page 12
+2025-05-16 08:48:00,856 - INFO - Scraping page 13
+2025-05-16 08:48:01,241 - INFO - Scraping page 14
+2025-05-16 08:48:01,389 - INFO - Scraping page 15
+2025-05-16 08:48:02,059 - INFO - Scraping page 16
+2025-05-16 08:48:02,597 - INFO - Scraping page 17
+2025-05-16 08:48:02,923 - INFO - Scraping page 18
+2025-05-16 08:48:03,768 - INFO - Scraping page 19
+2025-05-16 08:48:03,898 - INFO - Scraping page 20
+2025-05-16 08:48:04,335 - INFO - Scraping page 21
+2025-05-16 08:48:04,660 - INFO - Scraping page 22
+2025-05-16 08:48:04,789 - INFO - Scraping page 23
+2025-05-16 08:48:04,883 - INFO - Scraping page 24
+2025-05-16 08:48:05,315 - INFO - Scraping page 25
+2025-05-16 08:48:05,462 - INFO - Scraping page 26
+2025-05-16 08:48:06,303 - INFO - Scraping page 27
+2025-05-16 08:48:06,428 - INFO - Scraping page 28
+2025-05-16 08:48:07,109 - INFO - Scraping page 29
+2025-05-16 08:48:07,543 - INFO - Scraping page 30
+2025-05-16 08:48:08,195 - INFO - Scraping page 31
+2025-05-16 08:48:08,541 - INFO - Scraping page 32
+2025-05-16 08:48:08,969 - INFO - Scraping page 33
+2025-05-16 08:48:09,373 - INFO - Scraping page 34
+2025-05-16 08:48:09,701 - INFO - Scraping page 35
+2025-05-16 08:48:09,820 - INFO - Scraping page 36
+2025-05-16 08:48:10,273 - INFO - Scraping page 37
+2025-05-16 08:48:10,387 - INFO - Scraping page 38
+2025-05-16 08:48:10,836 - INFO - Scraping page 39
+2025-05-16 08:48:10,945 - INFO - Scraping page 40
+2025-05-16 08:48:11,531 - INFO - Scraping page 41
+2025-05-16 08:48:11,877 - INFO - Scraping page 42
+2025-05-16 08:48:12,223 - INFO - Scraping page 43
+2025-05-16 08:48:12,644 - INFO - Scraping page 44
+2025-05-16 08:48:12,770 - INFO - Scraping page 45
+2025-05-16 08:48:13,239 - INFO - Scraping page 46
+2025-05-16 08:48:13,759 - INFO - Scraping page 47
+2025-05-16 08:48:13,853 - INFO - Scraping page 48
+2025-05-16 08:48:14,283 - INFO - Scraping page 49
+2025-05-16 08:48:14,392 - INFO - Scraping page 50
+2025-05-16 08:48:14,514 - INFO - No more pages to scrape
+2025-05-16 08:48:14,514 - INFO - Scraping process completed
+2025-05-16 08:48:14,553 - INFO - save to csv success
+2025-05-16 08:48:14,560 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-16 08:48:16,554 - INFO - save to spreadsheets success
+2025-05-16 08:48:16,709 - INFO - save to postgres success
+2025-05-16 08:50:11,703 - INFO - Starting main function
+2025-05-16 08:50:11,703 - INFO - Starting scraping process
+2025-05-16 08:50:11,703 - INFO - Scraping first page
+2025-05-16 08:50:11,907 - INFO - Scraping page 2
+2025-05-16 08:50:12,003 - INFO - Scraping page 3
+2025-05-16 08:50:12,344 - INFO - Scraping page 4
+2025-05-16 08:50:12,466 - INFO - Scraping page 5
+2025-05-16 08:50:12,588 - INFO - Scraping page 6
+2025-05-16 08:50:12,709 - INFO - Scraping page 7
+2025-05-16 08:50:12,801 - INFO - Scraping page 8
+2025-05-16 08:50:12,893 - INFO - Scraping page 9
+2025-05-16 08:50:13,025 - INFO - Scraping page 10
+2025-05-16 08:50:13,126 - INFO - Scraping page 11
+2025-05-16 08:50:13,248 - INFO - Scraping page 12
+2025-05-16 08:50:13,362 - INFO - Scraping page 13
+2025-05-16 08:50:13,458 - INFO - Scraping page 14
+2025-05-16 08:50:13,557 - INFO - Scraping page 15
+2025-05-16 08:50:13,670 - INFO - Scraping page 16
+2025-05-16 08:50:13,773 - INFO - Scraping page 17
+2025-05-16 08:50:13,870 - INFO - Scraping page 18
+2025-05-16 08:50:13,969 - INFO - Scraping page 19
+2025-05-16 08:50:14,095 - INFO - Scraping page 20
+2025-05-16 08:50:14,224 - INFO - Scraping page 21
+2025-05-16 08:50:14,344 - INFO - Scraping page 22
+2025-05-16 08:50:14,475 - INFO - Scraping page 23
+2025-05-16 08:50:14,593 - INFO - Scraping page 24
+2025-05-16 08:50:14,708 - INFO - Scraping page 25
+2025-05-16 08:50:14,806 - INFO - Scraping page 26
+2025-05-16 08:50:14,912 - INFO - Scraping page 27
+2025-05-16 08:50:15,007 - INFO - Scraping page 28
+2025-05-16 08:50:15,143 - INFO - Scraping page 29
+2025-05-16 08:50:15,245 - INFO - Scraping page 30
+2025-05-16 08:50:15,353 - INFO - Scraping page 31
+2025-05-16 08:50:15,476 - INFO - Scraping page 32
+2025-05-16 08:50:15,572 - INFO - Scraping page 33
+2025-05-16 08:50:15,692 - INFO - Scraping page 34
+2025-05-16 08:50:15,813 - INFO - Scraping page 35
+2025-05-16 08:50:15,909 - INFO - Scraping page 36
+2025-05-16 08:50:16,028 - INFO - Scraping page 37
+2025-05-16 08:50:16,237 - INFO - Scraping page 38
+2025-05-16 08:50:16,368 - INFO - Scraping page 39
+2025-05-16 08:50:16,469 - INFO - Scraping page 40
+2025-05-16 08:50:16,601 - INFO - Scraping page 41
+2025-05-16 08:50:16,709 - INFO - Scraping page 42
+2025-05-16 08:50:16,831 - INFO - Scraping page 43
+2025-05-16 08:50:16,954 - INFO - Scraping page 44
+2025-05-16 08:50:17,074 - INFO - Scraping page 45
+2025-05-16 08:50:17,213 - INFO - Scraping page 46
+2025-05-16 08:50:17,333 - INFO - Scraping page 47
+2025-05-16 08:50:17,461 - INFO - Scraping page 48
+2025-05-16 08:50:17,579 - INFO - Scraping page 49
+2025-05-16 08:50:17,687 - INFO - Scraping page 50
+2025-05-16 08:50:17,793 - INFO - No more pages to scrape
+2025-05-16 08:50:17,793 - INFO - Scraping process completed
+2025-05-16 08:50:17,838 - INFO - save to csv success
+2025-05-16 08:50:17,845 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-16 08:50:19,635 - INFO - save to spreadsheets success
+2025-05-16 08:50:19,829 - INFO - save to postgres success

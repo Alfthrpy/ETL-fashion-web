@@ -7,13 +7,18 @@ import re
 import string
 import logging
 from datetime import datetime
+import os
 
 # Configure logging
+log_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "logs"))
+os.makedirs(log_dir, exist_ok=True)
+log_file_path = os.path.join(log_dir, "scraping.log")
+
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler("scraping.log"),
+        logging.FileHandler(log_file_path),
         logging.StreamHandler()
     ]
 )
@@ -112,7 +117,6 @@ def scrape():
 
     all_fashion_data = scrape_fashion(BASE_URL, PAGINATION_URL,startPage=2,delay=0)
     df = pd.DataFrame(all_fashion_data)
-    df.to_csv('testing.csv', index=False)
 
     return df
 

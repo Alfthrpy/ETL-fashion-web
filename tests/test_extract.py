@@ -3,10 +3,10 @@ from unittest.mock import patch, MagicMock
 from bs4 import BeautifulSoup
 import pandas as pd
 import re
-from utils.extract import fetchContent, extract_collection_fashion, scrape_fashion, main
+from utils.extract import fetchContent, extract_collection_fashion, scrape_fashion, scrape
 import requests
 
-class TestFashionExtract(unittest.TestCase):
+class TestExtractFunction(unittest.TestCase):
     def setUp(self):
         self.dummy_html = '''
         <div class="collection-card">
@@ -95,7 +95,7 @@ class TestFashionExtract(unittest.TestCase):
                 'Timestamp': '2025-05-15 12:00:00.123'
             }
         ]
-        df = main()
+        df = scrape()
         self.assertIsInstance(df, pd.DataFrame)
         self.assertEqual(df.shape[0], 1)
         self.assertIn('Title', df.columns)

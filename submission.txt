@@ -1,0 +1,12 @@
+# Menjalankan script
+python main.py
+
+# Menjalankan unittest pada folder tests
+python -m unittest discover -s tests  
+
+# menjalankan test coverage pada folder tests
+coverage run -m unittest discover -s tests
+
+# URL google spreadsheets:
+https://docs.google.com/spreadsheets/d/1TKH2hZ5Z_vEOHCi-FL0bRPCpClMcXYVE4c9BZNowFW0/edit?usp=sharing
+
